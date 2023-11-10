@@ -10,10 +10,10 @@
     <img alt="productive-time" width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=azubiwa&theme=moonlight&utcOffset=8" />
   </div>
   <div>
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Azubiwa&theme=onedark&column=8" />
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Azubiwa&theme=flat&column=8" />
   </div>
   <div>
-    <img width="100%" src="https://atcoder-trophies.vercel.app/api/v1/atcoder?username=Azubiwa&theme=onedark&row=1&column=7" />
+    <img width="100%" src="https://atcoder-trophies.vercel.app/api/v1/atcoder?username=Azubiwa&theme=flat&row=1&column=7" />
   </div>
 </p>
 
