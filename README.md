@@ -13,7 +13,7 @@
     <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Azubiwa&theme=flat&column=8" />
   </div>
   <div>
-    <img width="100%" src="https://atcoder-trophies.vercel.app/api/v1/atcoder?username=Azubiwa&theme=flat&row=1&column=7" />
+    <img width="100%" src="https://atcoder-trophies.vercel.app/api/v1/atcoder?username=Azubiwa&theme=flat&row=1&column=8" />
   </div>
 </p>
 
