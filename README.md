@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="left"> 
+<p align="center"> 
   <div>
     <img alt="profile-details" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azubiwa&theme=moonlight" />
   </div>
