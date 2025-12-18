@@ -5,9 +5,9 @@
     <img alt="profile-details" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azubiwa&theme=moonlight" />
   </div>
   <div>
-    <img alt="most-commit-language" width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azubiwa&theme=moonlight" />
-    <img alt="stats" width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=azubiwa&theme=moonlight" />
-    <img alt="productive-time" width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=azubiwa&theme=moonlight&utcOffset=8" />
+    <img alt="most-commit-language" width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azubiwa&theme=moonlight" />
+    <img alt="stats" width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=azubiwa&theme=moonlight" />
+    <img alt="productive-time" width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=azubiwa&theme=moonlight&utcOffset=8" />
   </div>
   <div>
     <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Azubiwa&theme=flat&column=8" />
