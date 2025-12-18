@@ -6,7 +6,7 @@
   </div>
   <div>
     <img alt="most-commit-language" width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azubiwa&theme=moonlight" />
-    <img alt="stats" width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=azubiwa&theme=moonlight" />
+    <img alt="stats" width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=azubiwa&theme=moonlight" />
     <img alt="productive-time" width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=azubiwa&theme=moonlight&utcOffset=8" />
   </div>
   <div>
