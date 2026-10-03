@@ -14,7 +14,7 @@
   </div>
   <div>
     <h3>AtCoder</h3>
-    <img width="100%" src="https://atcoder-trophies.vercel.app/api/v1/atcoder?username=Azubiwa&theme=flat&row=1&column=8" />
+    <img width="100%" src="https://atcoder-trophies.vercel.app/api/v1/atcoder?username=Azubiwa&theme=flat&row=3&column=8" />
   </div>
   <div>
     <a href="https://azubiwa.github.io/">Home Page</a>
