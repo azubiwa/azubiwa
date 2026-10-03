@@ -10,7 +10,7 @@
     <img alt="productive-time" width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=azubiwa&theme=moonlight&utcOffset=8" />
   </div>
   <div>
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Azubiwa&theme=flat&column=8" />
+    <img width="100%" src="./images/trophy.svg" />
   </div>
   <div>
     <h3>AtCoder</h3>
